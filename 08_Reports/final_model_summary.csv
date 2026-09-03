@@ -1,0 +1,7 @@
+Metric,Model,Score
+Best Accuracy,SMOTE Decision Tree,0.7635
+Best Precision,Improved Random Forest,0.2429
+Best Recall,Random Forest Threshold Tuning,1.0
+Best F1 Score,Random Forest Threshold Tuning,0.3258
+Best ROC-AUC,Improved XGBoost,0.5299
+Best PR-AUC,Improved XGBoost,0.1998

@@ -1,0 +1,19 @@
+Insight,Value
+Total Customers,2026
+Stayed Customers,1633
+Churned Customers,393
+Overall Churn Rate,19.4
+Highest Churn Telecom Partner,Vodafone
+Highest Partner Churn Rate,21.28
+Highest Churn Gender,F
+Highest Gender Churn Rate,20.3
+Highest Churn Age Group,36-45
+Highest Age Group Churn Rate,21.61
+Highest Churn Usage Segment,Low Usage
+Highest Usage Segment Churn Rate,19.85
+Highest Churn State,Bihar
+Highest State Churn Rate,26.14
+Highest Churn City,Kolkata
+Highest City Churn Rate,22.39
+Strongest Numerical/Engineered Correlation,communication_intensity
+Strongest Correlation Value,-0.0249

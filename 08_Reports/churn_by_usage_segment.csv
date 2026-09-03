@@ -1,0 +1,4 @@
+usage_segment,count,sum,churn_rate
+High Usage,675,127,18.81
+Low Usage,675,134,19.85
+Medium Usage,676,132,19.53

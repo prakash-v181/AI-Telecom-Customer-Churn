@@ -1,0 +1,5 @@
+telecom_partner,count,sum,churn_rate
+Airtel,507,87,17.16
+BSNL,496,99,19.96
+Reliance Jio,506,97,19.17
+Vodafone,517,110,21.28

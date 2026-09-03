@@ -1,0 +1,64 @@
+AI INDIVIDUAL CUSTOMER CHURN RISK REPORT
+======================================================================
+
+RISK LEVEL: LOW
+ANALYTICAL SCORE: 35.0%
+
+CUSTOMER PROFILE
+----------------------------------------------------------------------
+age: 25.0
+num_dependents: 22.0
+estimated_salary: 5500.0
+calls_made: 34.0
+sms_sent: 55.0
+data_used: 9675.0
+registration_year: 1
+registration_month: 2
+registration_quarter: 1
+total_communication: 89.0
+calls_per_data: 0.0035142118863049094
+sms_per_call: 1.6176470588235294
+data_per_call: 284.55882352941177
+salary_per_age: 220.0
+dependents_per_age: 0.88
+calls_sms_ratio: 0.6181818181818182
+communication_intensity: 0.009198015708970648
+avg_communication: 44.5
+usage_per_age: 387.0
+
+AI ANALYSIS
+----------------------------------------------------------------------
+
+**CUSTOMER RISK ASSESSMENT**
+
+**CUSTOMER RISK SUMMARY**
+
+The customer's analytical risk level is LOW, with a score of 35.0%. This indicates that the customer is currently at a lower risk of churning compared to the overall customer base.
+
+**WHY THIS CUSTOMER RECEIVED THIS RISK LEVEL**
+
+The customer's characteristics that contributed to this risk level include:
+
+* Age: 25.0 years old
+* Number of dependents: 22.0
+* Estimated salary: $5500.0
+* Low call activity (34.0 calls made)
+* Low data usage (9675.0 GB)
+
+These characteristics suggest that the customer is likely to be a low-usage customer with a stable income.
+
+**BUSINESS INTERPRETATION**
+
+The telecom company should understand that this customer is a low-risk customer who is likely to remain loyal to the service. However, it is essential to continue monitoring their usage and communication patterns to ensure that their needs are being met.
+
+**RETENTION ACTION**
+
+To retain this customer, consider the following actions:
+
+1. Offer personalized communication plans based on their low call activity and data usage.
+2. Provide additional data storage options to accommodate their growing data needs.
+3. Offer loyalty rewards or discounts for long-term customers.
+
+**MODEL LIMITATION**
+
+Please note that the current project's predictive models have weak separation, and this assessment should not be treated as a highly reliable individual churn prediction. The model's ROC-AUC score of 0.5299 indicates that the model is not highly accurate, and further analysis and refinement are necessary to improve the model's performance.

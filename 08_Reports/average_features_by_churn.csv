@@ -1,0 +1,3 @@
+churn,age,num_dependents,estimated_salary,calls_made,sms_sent,data_used,total_communication,registration_year,registration_month,registration_quarter
+0,45.53,1.96,84966.26,50.57,25.37,5099.32,75.94,2027.27,6.29,2.43
+1,45.32,1.97,84170.37,49.17,24.85,5061.47,74.03,2027.41,6.14,2.39

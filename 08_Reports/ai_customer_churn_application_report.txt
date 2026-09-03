@@ -1,0 +1,76 @@
+AI CUSTOMER CHURN APPLICATION REPORT
+======================================================================
+
+Risk level HIGH
+Risk score 5
+
+CUSTOMER INFORMATION
+======================================================================
+
+
+Customer information
+
+Age 25.0
+Number of dependents 2.0
+Estimated salary 55000.0
+Calls made 50.0
+SMS sent 25.0
+Data used 5000.0
+Registration year 2025
+Registration month 2
+Registration quarter 1
+Total communication 75.0
+
+Engineered values
+
+Calls per data 0.01
+SMS per call 0.5
+Data per call 100.0
+Salary per age 2200.0
+Dependents per age 0.08
+Calls SMS ratio 2.0
+Communication intensity 0.014997000599880024
+Average communication 37.5
+Usage per age 200.0
+
+VERIFIED ANALYSIS
+======================================================================
+
+Calls made are below the stayed customer average
+SMS activity is below the stayed customer average
+Data usage is below the stayed customer average
+Total communication is below the stayed customer average
+Estimated salary is below the stayed customer average
+
+AI ANALYSIS
+======================================================================
+
+CUSTOMER RISK SUMMARY
+
+The customer's risk level is HIGH.
+
+WHY THIS RISK LEVEL
+
+The customer's risk level is HIGH due to the following verified observations:
+
+* Calls made are below the stayed customer average
+* SMS activity is below the stayed customer average
+* Data usage is below the stayed customer average
+* Total communication is below the stayed customer average
+* Estimated salary is below the stayed customer average
+
+BUSINESS INTERPRETATION
+
+The company should understand that this customer is at a higher risk of churning compared to the average customer. This may indicate that the customer's communication needs are not being met, or that they are not using the service as frequently as expected.
+
+RETENTION ACTIONS
+
+To retain this customer, consider the following practical actions:
+
+1. Review and adjust the customer's communication plan to ensure it meets their needs. This may involve increasing the number of calls or SMS sent, or providing additional data usage.
+2. Offer personalized promotions or discounts to incentivize the customer to use the service more frequently.
+3. Provide additional support or resources to help the customer get the most out of their service, such as training or technical assistance.
+
+MODEL LIMITATION
+
+The model's reliability is limited by its weak predictive separation, as indicated by the ROC AUC of approximately 0.5299. This suggests that the model is not very effective at distinguishing between customers who will churn and those who will not. As a result, the model's predictions should be viewed with caution, and additional analysis or verification should be conducted before making any decisions about customer retention.

@@ -1,0 +1,87 @@
+AI CUSTOMER CHURN ANALYST REPORT
+======================================================================
+
+AI ENGINE: Ollama
+MODEL: llama3.2:3b
+
+**Customer Churn Analysis Report**
+
+**EXECUTIVE SUMMARY**
+
+The telecom industry is facing significant challenges with customer churn, with a total of 2026 customers and an overall churn rate of 19.4%. The major business finding is that the telecom partner, gender, age group, usage segment, state, and city are the key drivers of churn. The machine-learning analysis reveals that the strongest numerical/engineered correlation is with communication intensity, but the ROC-AUC results indicate weak predictive separation.
+
+**CUSTOMER CHURN ANALYSIS**
+
+Based on the data, the following are the highest churn rates:
+
+* Highest Churn Telecom Partner: Vodafone
+* Highest Churn Gender: F
+* Highest Churn Age Group: 36-45
+* Highest Churn Usage Segment: Low Usage
+* Highest Churn State: Bihar
+* Highest Churn City: Kolkata
+
+**CUSTOMER BEHAVIOR**
+
+The numerical feature differences reveal a weak correlation between communication intensity and churn rate (-0.0249). The engineered feature differences show no strong correlation between churn rate and any other variable.
+
+**MACHINE LEARNING ANALYSIS**
+
+The best models are:
+
+* Best Accuracy model: Improved Random Forest (0.7167)
+* Best Precision model: Improved Random Forest (0.2429)
+* Best Recall model: Improved Random Forest (0.2152)
+* Best F1 model: Improved Random Forest (0.2282)
+* Best ROC-AUC model: Improved XGBoost (0.5299)
+* Best PR-AUC model: Improved XGBoost (0.1998)
+
+However, the ROC-AUC results indicate weak predictive separation, suggesting that the current model may not be reliable for individual churn prediction.
+
+**KEY BUSINESS RISKS**
+
+The main areas that the telecom company should investigate are:
+
+* Vodafone's high churn rate
+* Female customers' high churn rate
+* Customers aged 36-45 years' high churn rate
+* Low-usage customers' high churn rate
+* Bihar state's high churn rate
+* Kolkata city's high churn rate
+
+**RETENTION RECOMMENDATIONS**
+
+Based on the data, the telecom company should:
+
+* Focus on retaining Vodafone customers
+* Target female customers with specific retention strategies
+* Develop targeted retention campaigns for customers aged 36-45 years
+* Analyze low-usage customers and provide value-added services
+* Investigate the reasons behind high churn rates in Bihar state and Kolkata city
+
+**DATA IMPROVEMENT RECOMMENDATIONS**
+
+The telecom company should collect additional features such as:
+
+* Customer complaints
+* Network quality
+* Recharge frequency
+* Plan changes
+* Customer tenure
+* Customer support interactions
+
+These features can provide valuable insights into customer behavior and preferences, enabling the telecom company to develop more effective retention strategies.
+
+**FINAL AI CONCLUSION**
+
+The current dataset is not suitable for reliable individual churn prediction due to weak predictive separation. Further data collection and analysis are necessary to improve the accuracy of churn prediction models.
+
+** MANAGEMENT SUMMARY**
+
+In summary, the telecom company should:
+
+* Focus on retaining high-value customers
+* Target specific customer segments with tailored retention strategies
+* Analyze customer behavior and preferences to develop effective retention campaigns
+* Collect additional data features to improve model accuracy
+* Monitor and adjust retention strategies regularly to ensure optimal customer retention.

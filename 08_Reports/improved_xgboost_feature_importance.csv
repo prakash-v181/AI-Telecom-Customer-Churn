@@ -1,0 +1,71 @@
+Feature,Importance
+categorical__state_Bihar,0.03512687
+categorical__age_group_18-25,0.029956786
+categorical__state_Tamil Nadu,0.022830684
+categorical__city_Delhi,0.02025467
+categorical__state_Andhra Pradesh,0.019673461
+categorical__city_Kolkata,0.019491548
+categorical__age_group_56+,0.01907861
+categorical__state_Uttarakhand,0.018452765
+categorical__state_Uttar Pradesh,0.01779382
+categorical__state_Mizoram,0.017606128
+numerical__dependents_per_age,0.017273704
+numerical__avg_communication,0.01716456
+numerical__registration_quarter,0.017027626
+categorical__telecom_partner_Reliance Jio,0.016928365
+categorical__age_group_46-55,0.016838543
+categorical__telecom_partner_Airtel,0.016799696
+categorical__state_Nagaland,0.016758595
+categorical__telecom_partner_Vodafone,0.016734652
+categorical__telecom_partner_BSNL,0.01648351
+numerical__total_communication,0.016215758
+categorical__state_Jharkhand,0.016202355
+categorical__data_usage_level_High Data Usage,0.016124696
+numerical__sms_sent,0.016031558
+numerical__communication_intensity,0.016031148
+numerical__data_used,0.015858382
+categorical__state_Himachal Pradesh,0.015792802
+numerical__salary_per_age,0.015734201
+categorical__state_Meghalaya,0.015675945
+numerical__age,0.01564967
+numerical__calls_sms_ratio,0.015524811
+numerical__calls_made,0.015473283
+numerical__registration_year,0.015332671
+categorical__age_group_36-45,0.015271871
+categorical__state_Karnataka,0.015264282
+numerical__calls_per_data,0.015248225
+numerical__sms_per_call,0.01521247
+categorical__state_Telangana,0.015171936
+categorical__state_Arunachal Pradesh,0.015170359
+categorical__state_Kerala,0.015151937
+numerical__estimated_salary,0.015005961
+numerical__usage_per_age,0.014954839
+numerical__data_per_call,0.0149524165
+categorical__state_Rajasthan,0.014918929
+categorical__gender_F,0.014857518
+categorical__age_group_26-35,0.014695344
+categorical__state_Gujarat,0.01467834
+categorical__state_Punjab,0.01429805
+categorical__city_Chennai,0.013736311
+categorical__gender_M,0.0134871
+numerical__registration_month,0.013444972
+numerical__num_dependents,0.012921971
+categorical__city_Hyderabad,0.012467764
+categorical__data_usage_level_Medium Data Usage,0.012165333
+categorical__state_West Bengal,0.012064741
+categorical__state_Tripura,0.011861922
+categorical__city_Mumbai,0.011837767
+categorical__city_Bangalore,0.011552786
+categorical__state_Odisha,0.01142499
+categorical__state_Manipur,0.01087473
+categorical__usage_segment_Medium Usage,0.0104532875
+categorical__usage_segment_High Usage,0.009697082
+categorical__state_Madhya Pradesh,0.009473794
+categorical__state_Haryana,0.009014823
+categorical__state_Sikkim,0.006070035
+categorical__state_Maharashtra,0.0046761977
+categorical__state_Goa,0.0
+categorical__state_Assam,0.0
+categorical__state_Chhattisgarh,0.0
+categorical__usage_segment_Low Usage,0.0
+categorical__data_usage_level_Low Data Usage,0.0
