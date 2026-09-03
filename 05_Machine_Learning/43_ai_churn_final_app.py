@@ -331,7 +331,7 @@ st.markdown(
 # ============================================================
 # SIDEBAR
 # ============================================================
-st.sidebar.title("📌 Navigation")
+st.sidebar.title("Navigation")
 
 page = st.sidebar.radio(
     "Select Analysis",
