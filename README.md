@@ -9,6 +9,10 @@ The idea was to make a project that is not only about training a model.
 I also wanted to understand what the data is telling us and how a
 business team could use those findings for discussion.
 
+## Dashboard Preview
+
+![Power BI Dashboard](Dashboard%20Images/dashboard.png)
+
 ## Project Links
 
 -   **GitHub:**
