@@ -221,7 +221,7 @@ This project gave me practice with:
 -   Comparing machine learning models with different metrics
 -   Building interactive dashboards
 -   Connecting an AI API to a Streamlit app
--   Organising files and sharing work through GitHub
+-   Organizing files and sharing work through GitHub
 -   Explaining model limitations instead of focusing only on accuracy
 
 I see this as a learning project that can be improved with better data
@@ -242,7 +242,5 @@ I am Prakash, and this project is part of my learning journey in Python,
 machine learning, data analytics, and business intelligence.
 
 I built it step by step to understand how data analysis and machine
-learning can be applied to a business problem. Feedback and suggestions
-are welcome.
-
+learning 
 **Thanks for checking out my project!**
