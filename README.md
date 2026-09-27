@@ -242,5 +242,6 @@ I am Prakash, and this project is part of my learning journey in Python,
 machine learning, data analytics, and business intelligence.
 
 I built it step by step to understand how data analysis and machine
-learning 
+learning
+
 **Thanks for checking out my project!**
